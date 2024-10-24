@@ -1,4 +1,4 @@
 <?php
 phpinfo();
 ?>
-<a href="WebDeProva/index.html">Inici</a>
+<a href="../index.html">Inici</a>
